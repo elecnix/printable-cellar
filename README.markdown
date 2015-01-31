@@ -5,7 +5,7 @@ Forget complex cellar tracking software, here is bleeding-edge technology: paper
 <img src="/elecnix/printable-cellar/wiki/celier-exemple-1.5.png"  height="300px" alt="French Sample" />
 <img src="/elecnix/printable-cellar/wiki/6cellar.jpg" height="300px" alt="Labels in cellar" />
 
-For instructions and download links, <a href="/elecnix/printable-cellar/wiki">see the wiki</a>.
+For instructions and download links, <a href="https://github.com/elecnix/printable-cellar/wiki">see the wiki</a>.
 
 # License
 
