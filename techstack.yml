@@ -1,7 +1,8 @@
 repo_name: elecnix/printable-cellar
 report_id: 2e38dac7b8d0780a40e08aea596e1077
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T15:24:20+00:00'
+timestamp: '2024-01-04T14:59:10+00:00'
 requested_by: elecnix
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/elecnix/printable-cellar
   detection_source: Repo Metadata
